@@ -1,11 +1,8 @@
 # Fernando Bizzotto (a.k.a Pinoga) 
 
 
-- Working at: [McGraw Hill Education](https://www.mheducation.com/)
-- Also working on: [This amazing online chat](https://github.com/Pinoga/tradingchat)
-- Studying: 
-    - Graph algorithms and data structures
-    - AWS Solutions Architect Professional certificate
+- Working at: [Blackpoint Cyber](https://blackpointcyber.com/)
+- Studying [cryptography and Rust](https://github.com/Pinoga/cryptopals)
 - Current readings: 
-    - [The Go Programming Language by Alan A. A. Donovan, Brian W. Kernighan](https://www.amazon.com.br/Go-Programming-Language-Brian-Kernighan/dp/0134190440)
-    - [Clean Code: A Handbook of Agile Software Craftsmanship by Robert Cecil Martin](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+    - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+    - [Rust](https://doc.rust-lang.org/book)
